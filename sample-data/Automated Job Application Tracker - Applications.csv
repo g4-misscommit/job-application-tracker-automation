@@ -1,0 +1,18 @@
+ID,Date,Company,Position,Industry,Location,Salary,Source,Recruiter,Email,Status,Day Since Applied,Follow-up Needed,Application Month
+APP001,"May 3, 2026",Accenture,Data Analyst,IT,Makati,28000,LinkedIn,Anna,anna@test.com,Applied,75,YES,May
+APP002,"May 12, 2026",IBM,Data Analyst,IT,Taguig,32000,Jobstreet,Mark,mark@test.com,Interview,66,,May
+APP003,"May 15, 2026",DXC,Business Analyst,IT,Remote,30000,Indeed,John,john@test.com,Rejected,63,,May
+APP004,"May 15, 2026",Concentrix,Reporting Analyst,BPO,Quezon City,26000,LinkedIn,Sarah,sarah@test.com,Applied,63,YES,May
+APP005,"May 15, 2026",GCash,Data Analyst,FinTech,Taguig,45000,LinkedIn,Grace,grace@test.com,Interview,9,,May
+APP006,"May 15, 2026",Canva,BI Analyst,Tech,Pasig,55000,Company Website,Luis,luis@test.com,Applied,7,YES,May
+APP007,"May 28, 2026",Jollibee Group,Systems Analyst,F&B,Pasig,35000,Jobstreet,Maria,maria@test.com,Applied,6,YES,May
+APP008,"June 4, 2026",Cognizant,Data Analyst,BPO,Taguig,33000,Indeed,Ryan,ryan@test.com,Rejected,6,,June
+APP009,"June 10, 2026",Globe Telecom,Operations Analyst,Telco,Mandaluyong,38000,LinkedIn,Patty,patty@test.com,Interview,5,,June
+APP010,"June 10, 2026",RealPage,Reporting Analyst,Real Estate,Pasig,32000,Indeed,Dave,dave@test.com,Applied,4,,June
+APP011,"June 18, 2026",Trend Micro,Security Analyst,IT Security,Pasig,40000,Company Website,Karen,karen@test.com,Offer,3,,June
+APP012,"June 25, 2026",TaskUs,Data Analyst,BPO,Cebu,29000,Jobstreet,Mike,mike@test.com,Applied,2,,June
+APP013,"July 1, 2026",Shopee,Data Analyst,E-Commerce,Taguig,42000,LinkedIn,Nikki,nikki@test.com,Applied,1,,July
+APP014,"July 1, 2026",Maya,Risk Analyst,FinTech,Mandaluyong,43000,LinkedIn,Alex,alex@test.com,Applied,0,,July
+APP015,"July 8, 2026",Wipro,Data Analyst,BPO,Cebu,31000,Indeed,Chris,chris@test.com,Applied,0,,July
+APP016,"July 14, 2026",SM Prime,Business Analyst,Retail,Pasay,36000,Jobstreet,Liza,liza@test.com,Applied,0,,July
+APP017,"July 17, 2026",Macquarie Group,Data Analyst,Finance,Taguig,50000,LinkedIn,Jason,jason@test.com,Applied,0,,July
