@@ -191,4 +191,5 @@ Created an interactive dashboard that automatically updates KPIs, charts, and pi
 # Author
 
 Trisha Yvonne L. Calibuso
-GitHub: https://github.com/g4-misscommit
+
+GitHub: [https://github.com/g4-misscommit](https://github.com/g4-misscommit/job-application-tracker-automation)
